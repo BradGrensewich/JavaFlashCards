@@ -1,0 +1,2 @@
+xin chao:hello:0
+tam biet:goodbye:0
